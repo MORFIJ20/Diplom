@@ -8,7 +8,7 @@ import com.example.bt_def.BasseActivity
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        setContentView(R.layout.activity_main) //dfdsssdfsdf
         startActivity(Intent (this, BasseActivity:: class.java))
     }
 }
